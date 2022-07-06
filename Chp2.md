@@ -64,11 +64,46 @@ List is created using square braker [ ], it is a collection variable storing mul
 name_list = ["Kevin","Gary","Daniel"]
 ```
 
-All of the items in a list, should be the same data types, it could be string, integer, or even another list.
+A list can contain different type of data, it could be string, integer, boolean, or even another list.
 ```python
 str_list = ["Kevin","Gary","Daniel"]
 int_list = [32,28,27]
 list_list = [[1,3],[2,4],[5,8]]
+```
+
+List items are indexed, the first item has index [0], the second item has index [1] ...
+the last item has index [-1], the last second item has index [-2] ...
+```python
+name_list = ["Kevin","Gary","Daniel"]
+print(name_list[0])  # Kevin
+print(name_list[-1]) # Daniel
+```
+
+Slicing is indexing syntax that extracts a portion from a list.
+[m:n] returns the portion of the list:
+- m<=x<n
+- starting with position m
+- up to but not including n
+- negative indexing can also be used
+```python
+name_list = ["Kevin","Gary","Daniel"]
+print(name_list[0:2])    # ['Kevin', 'Gary']
+print(name_list[-2:-1])  # ['Gary']
+print(name_list[-2:])    # ['Gary','Daniel']
+print(name_list[:2])     # ['Kevin','Gary']
+
+List items are ordered, changeable, and allow duplicate values.
+- The items have a defined order, and that order will not change. If a new item is added to the list, it will be placed at the end of the list.
+- The items can be changed, added, or removed after a list has been created.
+- Since lists are indexed, lists can have items with same value.
+
+The number of items in a list can be obtained by using the len() function.
+```python
+name_list = ["Kevin","Gary","Daniel"]
+print(len(name_list))
+
+output:
+3
 ```
 
 ## Tuple
