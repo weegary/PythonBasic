@@ -91,7 +91,8 @@ print(name_list[0:2])    # ['Kevin', 'Gary']
 print(name_list[-2:-1])  # ['Gary']
 print(name_list[-2:])    # ['Gary','Daniel']
 print(name_list[:2])     # ['Kevin','Gary']
-
+```
+         
 List items are ordered, changeable, and allow duplicate values.
 - The items have a defined order, and that order will not change. If a new item is added to the list, it will be placed at the end of the list.
 - The items can be changed, added, or removed after a list has been created.
