@@ -14,5 +14,6 @@ plt.plot(x, y, linestyle = 'solid', color = 'black', marker = 'o')
 
 And we are going to extend this code to a professional fashion througout this whole course.
 
-Pages:
+Contents: <br/>
 [Chapter 1: Introduction](Chp1.md)
+[Chapter 2: Python Fundemental - Data Types](Chp2.md)
