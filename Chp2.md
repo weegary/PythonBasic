@@ -58,7 +58,7 @@ There are 4 data types in Python used to store collections of data, which are Li
 
 ## List
 
-List is created using square braker [ ], it is a collection variable storing multiple items, the length and the items of a list can be modified.
+List is created using square brackets [ ], it is a collection variable storing multiple items, the length and the items of a list can be modified.
 
 ```python
 name_list = ["Kevin","Gary","Daniel"]
