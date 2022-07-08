@@ -109,4 +109,14 @@ output:
 
 ## Tuple
 
+Tuple is created using round brackets ( ), it is a collection variable storing multiple items, the length and the items of a list is fixed and cannot be changed. You can call the item using index just like list.
+
+```python
+name_tuple = ("Kevin","Gary","Daniel")
+name_tuple[0] = "Alex"   # error! 'tuple' object does not support item assignment
+```         
+
 ## Dict
+
+
+         
