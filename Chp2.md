@@ -116,7 +116,7 @@ name_tuple = ('Kevin','Gary','Daniel')
 name_tuple[0] = "Alex"   # error! 'tuple' object does not support item assignment
 ```         
 
-## Dict
+## Dictionary
 
 Dictionary is created using curly brackets { }, it stores data values in "key:value" pairs, therefore, it cannot have two items with the same key. The items of a dictionary are changeable, and ou can call the item using key.
 * Since Python 3.7, dictionaries are ordered.
@@ -126,5 +126,8 @@ person_dictionary = {
          'Name':'Gary',
          'Age':18,
          'Sex':'Male'}
-print(person_dictionary['Name']) # 'Gary'
+print(person_dictionary['Name']) 
+
+output:
+'Gary'
 ```    
