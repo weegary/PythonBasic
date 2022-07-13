@@ -86,7 +86,7 @@ Slicing is indexing syntax that extracts a portion from a list.
 - up to but not including n
 - negative indexing can also be used
 ```python
-name_list = ["Kevin","Gary","Daniel"]
+name_list = ['Kevin','Gary','Daniel']
 print(name_list[0:2])    # ['Kevin', 'Gary']
 print(name_list[-2:-1])  # ['Gary']
 print(name_list[-2:])    # ['Gary','Daniel']
@@ -100,7 +100,7 @@ List items are ordered, changeable, and allow duplicate values.
 
 The number of items in a list can be obtained by using the len() function.
 ```python
-name_list = ["Kevin","Gary","Daniel"]
+name_list = ['Kevin','Gary','Daniel']
 print(len(name_list))
 
 output:
@@ -112,11 +112,19 @@ output:
 Tuple is created using round brackets ( ), it is a collection variable storing multiple items, the length and the items of a list is fixed and cannot be changed. You can call the item using index just like list.
 
 ```python
-name_tuple = ("Kevin","Gary","Daniel")
+name_tuple = ('Kevin','Gary','Daniel')
 name_tuple[0] = "Alex"   # error! 'tuple' object does not support item assignment
 ```         
 
 ## Dict
 
+Dictionary is created using curly brackets { }, it stores data values in "key:value" pairs, therefore, it cannot have two items with the same key. The items of a dictionary are changeable, and ou can call the item using key.
+* Since Python 3.7, dictionaries are ordered.
 
-         
+```python
+person_dictionary = {
+         'Name':'Gary',
+         'Age':18,
+         'Sex':'Male'}
+print(person_dictionary['Name']) # 'Gary'
+```    
