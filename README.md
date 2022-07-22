@@ -17,4 +17,4 @@ And we are going to extend this code to a professional fashion througout this wh
 Contents: <br/>
 [Chapter 1: Introduction](Chp1.md) <br/>
 [Chapter 2: Python Fundemental - Data Types](Chp2.md) <br/>
-[Chapter X: Must Learn Module 1: Numpy](Chp X - Numpy.md)
+[Chapter X: Must Learn Module 1: Numpy](ChpX_Numpy.md)
