@@ -24,7 +24,7 @@ print(full_name)
 output:
 Gary Wee
 ```
-// Learn More: String Processing
+// Learn More: String Processing (To Be Continued...)
 
 ## Number
 
