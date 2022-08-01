@@ -1,4 +1,4 @@
-# Chapter 2: Python Fundemental - Data Types
+# Chapter 2: Data Types
 
 The basic data types used in Python are:
 - String
