@@ -17,42 +17,44 @@ And we are going to extend this code to a professional fashion througout this wh
 Contents: <br/>
 [Chapter 1: Introduction](Chp1.md) <br/>
 [Chapter 2: Data Types](Chp2.md) <br/>
-Chapter 3: Dates / Times / TimeInterval
+Chapter 3: Dates / Times / TimeInterval <br/>
 [Chapter 4: Operators](Chp3.md) <br/>
-Chapter 5: Math
-Chapter 6: Process Control - If...Else
-Chapter 7: Process Control - For Loops
-Chapter 8: Process Control - While Loops
-Chapter 9: Process Control - Break / Continue
-Chapter 10: Try...Except
-Chapter 11: Functions
-Chapter 12: Classes / Objects
-Chapter 13: File Handling
+Chapter 5: Math <br/>
+Chapter 6: Process Control - If...Else <br/>
+Chapter 7: Process Control - For Loops <br/>
+Chapter 8: Process Control - While Loops <br/>
+Chapter 9: Process Control - Break / Continue <br/>
+Chapter 10: Try...Except <br/>
+Chapter 11: Functions <br/>
+Chapter 12: Classes / Objects <br/>
+Chapter 13: File Handling <br/>
 - Read Files
 - Write/Create Files
 - Delete Files
 - Module: os, glob, sys, shutil
-- Special Format: JSON, XML (KML, HTML)
-[Chapter X: Must Learn Module 1: Numpy](ChpX_Numpy.md)
-Chapter X: Must Learn Module 2: Pandas
-Chapter X: Must Learn Module 3: JSON
-Chapter X: Must Learn Module 4: Matplotlib
-Chapter X: Module 5: re
-Chapter X: Module 6: Web Request (Selenium, WebRequest, BeautifulSoup, Scrapy)
-Chapter X: Module 7: Database (SQL Server)
-Chapter X: Module 8: GIS
+- Special Format: JSON, XML (KML, HTML) <br/>
+
+[Chapter X: Must Learn Module 1: Numpy](ChpX_Numpy.md) <br/>
+Chapter X: Must Learn Module 2: Pandas <br/>
+Chapter X: Must Learn Module 3: JSON <br/>
+Chapter X: Must Learn Module 4: Matplotlib <br/>
+Chapter X: Module 5: re <br/>
+Chapter X: Module 6: Web Request (Selenium, WebRequest, BeautifulSoup, Scrapy) <br/>
+Chapter X: Module 7: Database (SQL Server) <br/>
+Chapter X: Module 8: GIS <br/>
 - Basemap, Shapely, Cartopy
 - PyProj
 - Arcpy
 - GDAL, Fiona, Geopandas
-- ipyleaflet
-Chapter X: Module 8: Machine Learning
-Chapter X: Module 9: GUI (TKinter)
-Chapter Y: Project 1: Microsoft Excel Manipulation
-Chapter Y: Project 2: Microsoft Word Manipulation
-Chapter Y: Project 3: Web Scrawling
-Chapter Y: Project 4: 2D Game Creation
-Chapter Y: Project 5: Computer Vision
-Chapter Y: Project 6: Tableau
-Chapter Y: Project 7: Chatting Bot (LineBot)
+- ipyleaflet <br/>
+- 
+Chapter X: Module 8: Machine Learning <br/>
+Chapter X: Module 9: GUI (TKinter) <br/>
+Chapter Y: Project 1: Microsoft Excel Manipulation <br/>
+Chapter Y: Project 2: Microsoft Word Manipulation <br/>
+Chapter Y: Project 3: Web Scrawling <br/>
+Chapter Y: Project 4: 2D Game Creation <br/>
+Chapter Y: Project 5: Computer Vision <br/>
+Chapter Y: Project 6: Tableau <br/>
+Chapter Y: Project 7: Chatting Bot (LineBot) <br/>
 
