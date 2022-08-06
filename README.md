@@ -20,10 +20,10 @@ Contents: <br/>
 Chapter 3: Dates / Times / TimeInterval <br/>
 [Chapter 4: Operators](Chp3.md) <br/>
 Chapter 5: Math <br/>
-Chapter 6: Process Control - If...Else <br/>
-Chapter 7: Process Control - For Loops <br/>
-Chapter 8: Process Control - While Loops <br/>
-Chapter 9: Process Control - Break / Continue <br/>
+Chapter 6: Control Flow - If...Else <br/>
+[Chapter 7: Control Flow - For Loops](Chp7.md) <br/>
+Chapter 8: Control Flow - While Loops <br/>
+Chapter 9: Control Flow - Break / Continue <br/>
 Chapter 10: Try...Except <br/>
 Chapter 11: Functions <br/>
 Chapter 12: Classes / Objects <br/>
