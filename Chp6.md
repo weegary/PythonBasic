@@ -1,4 +1,4 @@
-# Chapter 7: Control Flow - For Loops
+# Chapter 6: Control Flow - For Loops
 
 - syntax: ```for item in sequence:```
 - remember to add ":" colon symbol at the end of the for statement.
