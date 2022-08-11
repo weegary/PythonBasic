@@ -21,7 +21,7 @@ Chapter 3: Dates / Times / TimeInterval <br/>
 [Chapter 4: Operators](Chp3.md) <br/>
 Chapter 5: Math <br/>
 [Chapter 6: Control Flow - For Loops](Chp6.md) <br/>
-Chapter 7: Control Flow - While Loops <br/>
+[Chapter 7: Control Flow - While Loops](Chp7.md) <br/>
 [Chapter 8: Control Flow - If...Else](Chp8.md) <br/>
 Chapter 9: Control Flow - Break / Continue <br/>
 Chapter 10: Try...Except <br/>
