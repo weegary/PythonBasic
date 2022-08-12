@@ -96,7 +96,7 @@ You can type two index with one interval to get multiple values with different s
 ```data[:1:-2]``` to get the item 9,7,5,3. (descending order)<br/>
 
 Similary, to get the values from two-dimensional array, just use comma ',' to separate the index.
-```
+```python
 data[0,2]
 data[1:5,0:]
 data[0:5:2,9:2:-1]
