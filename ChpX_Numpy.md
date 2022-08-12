@@ -95,6 +95,9 @@ You can type two index with one interval to get multiple values with different s
 ```data[5:1:-1]``` to get the item 5,4,3,2. (descending order)<br/>
 ```data[:1:-2]``` to get the item 9,7,5,3. (descending order)<br/>
 
-多維讀取
+Similary, to get the values from two-dimensional array, just use comma ',' to separate the index.
+```
 data[0,2]
-data[1:1:3]
+data[1:5,0:]
+data[0:5:2,9:2:-1]
+```
