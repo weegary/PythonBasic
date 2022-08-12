@@ -64,3 +64,37 @@ Output:
  [ 9 10 11 12]
  [13 14 15 16]]
 ```
+
+## Getting The Values From Numpy Array
+Sliding index are used to get the values from a numpy array.
+To illustrate, we create a numpy arange and named it as 'data'.
+```python
+import numpy as np
+data = np.arange(0,10)
+```
+
+You can type an index to get the item from an array, e.g., ```array[index]``` .<br/>
+
+```data[0]``` index 0 to get the first item, which is 0.<br/>
+```data[4]``` index 4 to get the fifth item, which is 4.<br/>
+```data[-1]``` index -1 to get the last item, which is 9.<br/>
+```data[-2]``` index -2 to get the second last item, which is 8.<br/>
+
+You can type two index to get multiple values from an array, e.g., ```array[start_index:end_index]```. <br/>
+
+```data[0:2]``` index 0:2 to get the first 2 item (index 0 and index 1 only), which are 0,1.<br/>
+```data[4:8]``` index 4:8 to get the item from index 4 to index 7 (index 8 is excluded), which are 4,5,6,7.<br/>
+```data[-3:-1]``` index -3:-1 to get the item from index -3 (last 3rd) to index -2 (last 2nd), which are 7,8.<br/>
+```data[:5]``` index :5 to get the item from the beginning to index 4, which are 0,1,2,3,4.<br/>
+```data[5:]``` index 5: to get the item from index 5 to the end, which are 5,6,7,8,9.<br/>
+
+You can type two index with one interval to get multiple values with different step from an array, e.g., ```array[start_index:end_index:interval]```. <br/>
+
+```data[0:5:2]``` to get the items 0,2,4.<br/>
+```data[4:9:3]``` to get the item 4,7.<br/>
+```data[5:1:-1]``` to get the item 5,4,3,2. (descending order)<br/>
+```data[:1:-2]``` to get the item 9,7,5,3. (descending order)<br/>
+
+多維讀取
+data[0,2]
+data[1:1:3]
