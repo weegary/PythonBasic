@@ -101,3 +101,11 @@ data[0,2]
 data[1:5,0:]
 data[0:5:2,9:2:-1]
 ```
+
+## Generate Random Numbers
+
+|Code|Functions|
+|---|---|
+|```rand(d0,d1,...,dn)```|According to the dimensions, generate random floating numbers between 0 to 1.|
+|```randn(d0,d1,...,dn)```|According to the dimensions, generate random floating numbers based on normal distribution.|
+|```randint(min,max,[d0,d1,...,dn])```|According to the dimensions, generate integer random numbers between min and max (not included max).|
