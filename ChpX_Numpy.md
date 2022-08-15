@@ -108,4 +108,4 @@ data[0:5:2,9:2:-1]
 |---|---|
 |```rand(d0,d1,...,dn)```|According to the dimensions, generate random floating numbers between 0 to 1.|
 |```randn(d0,d1,...,dn)```|According to the dimensions, generate random floating numbers based on normal distribution.|
-|```randint(min,max,[d0,d1,...,dn])```|According to the dimensions, generate integer random numbers between min and max (not included max).|
+|```randint(min,max,[d0,d1,...,dn])```|According to the dimensions, generate random integer numbers between min and max (not included max).|
