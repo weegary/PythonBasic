@@ -15,15 +15,15 @@ plt.plot(x, y, linestyle = 'solid', color = 'black', marker = 'o')
 And we are going to extend this code to a professional fashion througout this whole course.
 
 Contents: <br/>
-[Chapter 1: Introduction](Chp1.md) <br/>
-[Chapter 2: Data Types](Chp2.md) <br/>
+[Chapter 1: Introduction](Chp01.md) <br/>
+[Chapter 2: Data Types](Chp02.md) <br/>
 Chapter 3: Dates / Times / TimeInterval <br/>
-[Chapter 4: Operators](Chp3.md) <br/>
+[Chapter 4: Operators](Chp03.md) <br/>
 Chapter 5: Math <br/>
-[Chapter 6: Control Flow - For Loops](Chp6.md) <br/>
-[Chapter 7: Control Flow - While Loops](Chp7.md) <br/>
-[Chapter 8: Control Flow - If...Else](Chp8.md) <br/>
-[Chapter 9: Control Flow - Break and Continue](Chp9.md) <br/>
+[Chapter 6: Control Flow - For Loops](Chp06.md) <br/>
+[Chapter 7: Control Flow - While Loops](Chp07.md) <br/>
+[Chapter 8: Control Flow - If...Else](Chp08.md) <br/>
+[Chapter 9: Control Flow - Break and Continue](Chp09.md) <br/>
 Chapter 10: Try...Except <br/>
 Chapter 11: Functions <br/>
 Chapter 12: Classes / Objects <br/>
