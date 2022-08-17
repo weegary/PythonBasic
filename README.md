@@ -27,13 +27,8 @@ Chapter 5: Math <br/>
 Chapter 10: Try...Except <br/>
 Chapter 11: Functions <br/>
 Chapter 12: Classes / Objects <br/>
-Chapter 13: File Handling <br/>
-- Read Files
-- Write/Create Files
-- Delete Files
-- Module: os, glob, sys, shutil
-- Special Format: JSON, XML (KML, HTML) <br/>
-
+[Chapter 13: File Handling](Chp13.md) <br/>
+<br/>
 [Chapter X: Must Learn Module 1: Numpy](ChpX_Numpy.md) <br/>
 Chapter X: Must Learn Module 2: Pandas <br/>
 Chapter X: Must Learn Module 3: JSON <br/>
