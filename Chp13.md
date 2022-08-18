@@ -4,7 +4,7 @@
 
 ```open(file_name,mode)``` is used to manipulate the file. The mode can be set to ```'r'``` to read file, ```'w'``` to write file (create a new file or overwrite existed file), and ```'a'``` to append file (don't overwrite existed file, continue at the end of the existed file).
 
-### Write Files 
+### Write File (and Create File)
 
 1. To write file (create a new file or overwrite existed file)
 ``` python
@@ -30,19 +30,26 @@ data.writelines('6\t600\n')
 data.close()
 ```
 
-### Read Files
+### Read File
 ```python
 data = open('data.txt','r')	        # r : reading mode
 lines_list = data.readlines()	      # Open 'data.txt' and save all lines into a list. 
 data.close()
 ```
 
-### Create Files
+### Delete File
+```python
+import os
+os.remove("data.txt")
+```
 
-### Delete Files
+### Check If The File Is Existed
+```python
+import os
+print(os.path.exists("data.txt"))  # Return True or False
+```
 
 ## Special Format: JSON
-
 ```python
 import json
 file_name = r'example.json' 
@@ -53,6 +60,11 @@ with open(file_name,'r',encoding="utf-8") as f:
 
 ## Module: os, glob, sys, shutil
 
-## Getting Files in Directory
+## Getting Files in Folder (Directory)
 
-## Getting Directories in Directory
+## Getting Folders (Directories) in Folder(Directory)
+
+## Delete Folder (Directory)
+```python
+import os
+os.rmdir("folder_path")  # rmdir : remove directory
