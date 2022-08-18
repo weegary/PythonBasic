@@ -1,4 +1,4 @@
-# Chapter 3: Operators
+# Chapter 03: Operators
 
 As a programming laguage, python can do several operation.
 
