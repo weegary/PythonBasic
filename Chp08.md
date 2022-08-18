@@ -1,4 +1,4 @@
-# Chapter 8: Control Flow - If...Else
+# Chapter 08: Control Flow - If...Else
 
 - syntax: ```if condition:```
 - The condition must be something returns True or False.
