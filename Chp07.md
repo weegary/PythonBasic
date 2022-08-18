@@ -1,4 +1,4 @@
-# Chapter 7: Control Flow - While Loops
+# Chapter 07: Control Flow - While Loops
 
 - syntax: ```while (condition):```
 - remember to add ":" colon symbol at the end of the while statement.
