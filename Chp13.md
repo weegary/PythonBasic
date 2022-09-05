@@ -60,9 +60,74 @@ with open(file_name,'r',encoding="utf-8") as f:
 
 ## Module: os, glob, sys, shutil
 
+1. os
+```python
+import os
+```
+
+2. glob
+```python
+import glob
+```
+
+3. sys
+```python
+import sys
+```
+
+4. shutil
+```python
+import shutil
+```
+
 ## Getting Files in Folder (Directory)
 
+1. List all files
+```python 
+import glob
+
+path_name = r'C:\Users\user\Desktop\\'
+files = glob.glob(path_name+"*")  # List all files
+print(files)
+```
+
+2. List files with specific format 
+```glob.glob(path_name+"*")``` would list all the files, to specify the format of file, we can change the code to ```glob.glob(path_name+"*.txt")```, this would list all the ".txt" format files.
+
+```python 
+import glob
+
+path_name = r'C:\Users\user\Desktop\\'
+files = glob.glob(path_name+"*.txt")  # List all files with ".txt" format
+print(files)
+```
+
+3. List files with specific name
+
+```python
+import glob
+glob.glob('./[0-9].*')                   # file named with number 0~1, no matter what format
+glob.glob('*.gif')                       # file named with ".gif" format
+glob.glob('?.gif')                       # file named with ".gif" format, the file name is just one character
+glob.glob('**/*.txt', recursive=True)    # file named with ".txt" format, including the files located in first level folder
+glob.glob('./**/', recursive=True)       # folder located in parent folder
+
+Possible output:
+['./1.gif', './2.txt']
+['1.gif', 'card.gif']
+['1.gif']
+['2.txt', 'sub/3.txt']
+['./', './sub/']
+```
+
 ## Getting Folders (Directories) in Folder(Directory)
+```python
+import glob
+
+path_name = r'C:\Users\user\Desktop\\'
+files = glob.glob(path_name+"*\\")  # List all folders
+print(files)
+```
 
 ## Delete Folder (Directory)
 ```python
