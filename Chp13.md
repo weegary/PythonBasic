@@ -82,7 +82,8 @@ import shutil
 
 ## Getting Files in Folder (Directory)
 
-1. List all files
+1. List all files <br/>
+
 ```python 
 import glob
 
@@ -91,7 +92,8 @@ files = glob.glob(path_name+"*")  # List all files
 print(files)
 ```
 
-2. List files with specific format 
+2. List files with specific format <br/> 
+
 ```glob.glob(path_name+"*")``` would list all the files, to specify the format of file, we can change the code to ```glob.glob(path_name+"*.txt")```, this would list all the ".txt" format files.
 
 ```python 
