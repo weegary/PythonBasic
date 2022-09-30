@@ -1,6 +1,6 @@
 # Chapter 10: Try...Except...Finally
 
-- To handle errors during runtime, we uses ```try```, ```except``` and ```finally```.
+- To handle errors during runtime, we use ```try```, ```except``` and ```finally```.
 - The codes inside the try / except / finally statement cannot be aligned with the first line of the statement, it should be one indentation different from the first line.
 - To escape, just simply align the code with the first line of the statement.
 
