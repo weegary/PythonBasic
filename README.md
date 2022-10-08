@@ -31,7 +31,7 @@ Chapter 12: Classes / Objects <br/>
 <br/>
 [Chapter X: Must Learn Module 1: Numpy](ChpX_Numpy.md) <br/>
 Chapter X: Must Learn Module 2: Pandas <br/>
-Chapter X: Must Learn Module 3: JSON <br/>
+[Chapter X: Must Learn Module 3: JSON](ChpX_JSON.md) <br/>
 Chapter X: Must Learn Module 4: Matplotlib <br/>
 Chapter X: Module 5: re <br/>
 Chapter X: Module 6: Web Request (Selenium, WebRequest, BeautifulSoup, Scrapy) <br/>
