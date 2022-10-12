@@ -25,7 +25,7 @@ Chapter 5: Math <br/>
 [Chapter 8: Control Flow - If...Else](Chp08.md) <br/>
 [Chapter 9: Control Flow - Break and Continue](Chp09.md) <br/>
 [Chapter 10: Try...Except...Finally](Chp10.md) <br/>
-Chapter 11: Functions <br/>
+[Chapter 11: Functions](Chp11.md) <br/>
 Chapter 12: Classes / Objects <br/>
 [Chapter 13: File Handling](Chp13.md) <br/>
 <br/>
