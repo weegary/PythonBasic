@@ -34,7 +34,7 @@ Chapter X: Must Learn Module 2: Pandas <br/>
 [Chapter X: Must Learn Module 3: JSON](ChpX_JSON.md) <br/>
 Chapter X: Must Learn Module 4: Matplotlib <br/>
 Chapter X: Module 5: re <br/>
-Chapter X: Module 6: Web Request (Selenium, WebRequest, BeautifulSoup, Scrapy) <br/>
+[Chapter X: Module 6: Web Request (Selenium, WebRequest, BeautifulSoup, Scrapy)](ChpX_WebRequest.md) <br/>
 Chapter X: Module 7: Database (SQL Server) <br/>
 Chapter X: Module 8: GIS <br/>
 - Basemap, Shapely, Cartopy
