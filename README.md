@@ -45,7 +45,7 @@ Chapter X: Module 8: GIS <br/>
 - 
 Chapter X: Module 8: Machine Learning <br/>
 Chapter X: Module 9: GUI (TKinter) <br/>
-Chapter Y: Project 1: Microsoft Excel Manipulation <br/>
+[Chapter Y: Project 1: Microsoft Excel Manipulation](ChpX_Excel.md) <br/>
 Chapter Y: Project 2: Microsoft Word Manipulation <br/>
 Chapter Y: Project 3: Web Scrawling <br/>
 Chapter Y: Project 4: 2D Game Creation <br/>
