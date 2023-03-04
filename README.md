@@ -18,7 +18,7 @@ Contents: <br/>
 [Chapter 1: Introduction](Chp01.md) <br/>
 [Chapter 2: Data Types](Chp02.md) <br/>
 Chapter 3: Dates / Times / TimeInterval <br/>
-[Chapter 4: Operators](Chp03.md) <br/>
+[Chapter 4: Operators](Chp04.md) <br/>
 Chapter 5: Math <br/>
 [Chapter 6: Control Flow - For Loops](Chp06.md) <br/>
 [Chapter 7: Control Flow - While Loops](Chp07.md) <br/>
