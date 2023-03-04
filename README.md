@@ -17,7 +17,7 @@ And we are going to extend this code to a professional fashion througout this wh
 Contents: <br/>
 [Chapter 1: Introduction](Chp01.md) <br/>
 [Chapter 2: Data Types](Chp02.md) <br/>
-Chapter 3: Dates / Times / TimeInterval <br/>
+[Chapter 3: DateTime/ Date / Time / TimeDelta](Chp03.md) <br/>
 [Chapter 4: Operators](Chp04.md) <br/>
 Chapter 5: Math <br/>
 [Chapter 6: Control Flow - For Loops](Chp06.md) <br/>
