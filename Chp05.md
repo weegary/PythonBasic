@@ -62,4 +62,5 @@ For the full documentation of all the functions, please find the Reference: [Cli
 For your information,
 Most of the functions or constants can also be accessed in the [```numpy``` module](ChpX_Numpy.md). <br/>
 Use ```math``` if you are doing simple computations with only scalars (and no lists or arrays). <br/>
-Use ```numpy``` if you are doing scientific computations with matrices, arrays, or large datasets.
+Use ```numpy``` if you are doing scientific computations with matrices, arrays, or large datasets. <br/>
+It is common **not to** import ```math``` library when you need functions that are only present in ```numpy``` or ```scipy``` modules.
