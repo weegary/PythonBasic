@@ -19,7 +19,7 @@ Contents: <br/>
 [Chapter 2: Data Types](Chp02.md) <br/>
 [Chapter 3: DateTime/ Date / Time / TimeDelta](Chp03.md) <br/>
 [Chapter 4: Operators](Chp04.md) <br/>
-Chapter 5: Math <br/>
+[Chapter 5: Math](Chp05.md) <br/>
 [Chapter 6: Control Flow - For Loops](Chp06.md) <br/>
 [Chapter 7: Control Flow - While Loops](Chp07.md) <br/>
 [Chapter 8: Control Flow - If...Else](Chp08.md) <br/>
