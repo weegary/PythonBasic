@@ -2,10 +2,10 @@
 
 Pandas is a Python package designed to work with tabular data easily and intuitively.<br/>
 
-Table of Content: 
+Table of Content: <br/>
 [Module Installation](#Module-Installation) <br/>
 [Import Module](#Import-Module)  <br/>
-[Data Structures](#Data-Structure) (DataFrame, Series)  <br/>
+[Data Structures](#Data-Structures) (DataFrame, Series)  <br/>
 [Read and Write](#Read-and-Write) <br/>
 [Selection](#Selection) <br/>
 [Viewing Data](#Viewing-Data) <br/>
@@ -690,3 +690,9 @@ Code above creates a scatter plot of A to B.
 ![image](https://user-images.githubusercontent.com/51909547/236201239-4107bc05-4e43-40a8-b11a-8dec12c8a064.png)
 
 Different types of chart can be drawn from DataFrame, including bar chart, pie chart, histogram, etc.
+
+# Reference
+[Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
+[Pandas Cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+[Pandas Plot Examples](https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot#:~:text=Pandas%20has%20tight%20integration%20with%20matplotlib.%20You%20can,scatter%20plot%20comparing%20num_children%20and%20num_pets%20df.plot%28kind%3D%27scatter%27%2Cx%3D%27num_children%27%2Cy%3D%27num_pets%27%2Ccolor%3D%27red%27%29%20plt.show%28%29)
+
