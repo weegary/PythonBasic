@@ -30,7 +30,7 @@ Chapter 12: Classes / Objects <br/>
 [Chapter 13: File Handling](Chp13.md) <br/>
 <br/>
 [Chapter X: Must Learn Module 1: Numpy](ChpX_Numpy.md) <br/>
-Chapter X: Must Learn Module 2: Pandas <br/>
+[Chapter X: Must Learn Module 2: Pandas](ChpX_Pandas.md) <br/>
 [Chapter X: Must Learn Module 3: JSON](ChpX_JSON.md) <br/>
 Chapter X: Must Learn Module 4: Matplotlib <br/>
 Chapter X: Module 5: re <br/>
