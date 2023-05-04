@@ -680,19 +680,18 @@ import matplotlib.pyplot as plt
 df.plot(kind="line") # Line Plot
 ```
 
-Code above generates a line plot for A to D.
+Code above generates a line plot for A to D. <br/>
 ![image](https://user-images.githubusercontent.com/51909547/236201077-8a2a8a17-5fab-4a44-b1e9-12685a2c6d35.png)
 
 ```python
 df.plot(kind="scatter",x="A",y="B")
 ```
-Code above creates a scatter plot of A to B.
+Code above creates a scatter plot of A to B. <br/>
 ![image](https://user-images.githubusercontent.com/51909547/236201239-4107bc05-4e43-40a8-b11a-8dec12c8a064.png)
 
 Different types of chart can be drawn from DataFrame, including bar chart, pie chart, histogram, etc.
 
 # Reference
-[Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
-[Pandas Cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+[Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html) <br/>
+[Pandas Cheat sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf) <br/>
 [Pandas Plot Examples](https://queirozf.com/entries/pandas-dataframe-plot-examples-with-matplotlib-pyplot#:~:text=Pandas%20has%20tight%20integration%20with%20matplotlib.%20You%20can,scatter%20plot%20comparing%20num_children%20and%20num_pets%20df.plot%28kind%3D%27scatter%27%2Cx%3D%27num_children%27%2Cy%3D%27num_pets%27%2Ccolor%3D%27red%27%29%20plt.show%28%29)
-
