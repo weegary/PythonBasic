@@ -5,7 +5,7 @@ It is often used for exchanging data online.<br/>
 The json library can parse JSON from strings or files.<br/>
 A json object can be parsed into python dictionary, while a json list can be parsed into python list.<br/>
 
-## Numpy Installation
+## Module Installation
 ```json``` is a built-in module in Python, you don't need to install it with pip.
 
 ## Import Module
