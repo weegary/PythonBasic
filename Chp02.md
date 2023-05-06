@@ -24,7 +24,63 @@ print(full_name)
 output:
 Gary Wee
 ```
-// Learn More: String Processing (To Be Continued...)
+
+```str(variable)``` can be used to convert number to string
+```python
+name = 'Gary' # String
+age = 20      # Number
+print(name + ' is ' + str(age))
+
+Output:
+Gary is 20
+```
+
+### String Process
+
+|Function|Describe|Result|
+|---|---|---|
+|len(string)|Get the length of string|12|
+|string.capitalize()|Capitalize the first character of string|Gary is cool|
+|string.lower()|Lower case the whole string|gary is cool|
+|string.split()|Split the string with specific character|>>>name.split('a')<br/>['G','ry is cool']|
+|string.title()|Capitalize first character of every word|Gary Is Cool|
+|string.upper()|Upper case the whole string|GARY IS COOL|
+
+### Splitting the String
+
+If you want to split the string by using "one character", you can just use the ```split``` function.
+```python
+names = "Gary Kevin Daniel"
+x,y,z = names.split() # Split by blank
+
+Output:
+x = "Gary"
+y = "Kevin"
+z = "Daniel"
+```
+
+If you want to split the string by using "escape character", we need to import ```re``` module.
+```python
+import re
+names = "Gary\tKevin\tDaniel"
+x,y,z = re.split(r'\t+',names)
+
+Output:
+x = "Gary"
+y = "Kevin"
+z = "Daniel"
+```
+
+Here are some escape characters used in Python:
+|Code|Describtion|
+|---|---|
+|\\'|Single Quote|
+|\\ \ |Backslash|
+|\n|New Line|
+|\r|Carriage Return(Enter)|
+|\t|Tab|
+|\b|Backspace|
+|\f|Form Feed|
 
 ## Number
 
@@ -35,6 +91,18 @@ x = 10       # int
 y = 3.1415   # float
 z = 6j       # complex
 ```
+
+```int(variable)``` can be used to convert string into integer
+```python
+age = '20'      # Variable with quotations is string, not number
+print(int(age) + 5)
+
+Output:
+25
+```
+
+```float()``` and ```complex()``` can be used in similar way.
+
 ## Boolean
 
 Boolean is a data type that can only have two possible values: True or False.
