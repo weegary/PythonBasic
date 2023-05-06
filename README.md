@@ -33,16 +33,14 @@ Chapter 12: Classes / Objects <br/>
 [Chapter X: Must Learn Module 2: Pandas](ChpX_Pandas.md) <br/>
 [Chapter X: Must Learn Module 3: JSON](ChpX_JSON.md) <br/>
 Chapter X: Must Learn Module 4: Matplotlib <br/>
-Chapter X: Module 5: re <br/>
-[Chapter X: Module 6: Web Request (Selenium, WebRequest, BeautifulSoup, Scrapy)](ChpX_WebRequest.md) <br/>
-[Chapter X: Module 7: Database (SQL Server)](ChpX_Database.md) <br/>
-Chapter X: Module 8: GIS <br/>
+[Chapter X: Module 5: Web Request (Selenium, WebRequest, BeautifulSoup, Scrapy)](ChpX_WebRequest.md) <br/>
+[Chapter X: Module 6: Database (SQL Server)](ChpX_Database.md) <br/>
+Chapter X: Module 7: GIS <br/>
 - Basemap, Shapely, Cartopy
 - PyProj
 - Arcpy
 - GDAL, Fiona, Geopandas
 - ipyleaflet <br/>
-- 
 Chapter X: Module 8: Machine Learning <br/>
 Chapter X: Module 9: GUI (TKinter) <br/>
 [Chapter Y: Project 1: Microsoft Excel Manipulation](ChpX_Excel.md) <br/>
