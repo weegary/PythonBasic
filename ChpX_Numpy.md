@@ -65,6 +65,23 @@ Output:
  [13 14 15 16]]
 ```
 
+## Transpose
+```python
+import numpy as np
+z = np.array([(1,2,3,4),(8,16,24,32)])
+print(z)
+
+Output:
+[[ 1 2 3 4]
+ [ 8 16 24 32]]
+ 
+ print(z.transpose())  # or z.T
+ [[ 1  8]
+  [ 2 16]
+  [ 3 24]
+  [ 4 32]] 
+```
+
 ## Getting The Values From Numpy Array
 Sliding index are used to get the values from a numpy array.
 To illustrate, we create a numpy arange and named it as 'data'.
@@ -109,3 +126,10 @@ data[0:5:2,9:2:-1]
 |```rand(d0,d1,...,dn)```|According to the dimensions, generate random floating numbers between 0 to 1.|
 |```randn(d0,d1,...,dn)```|According to the dimensions, generate random floating numbers based on normal distribution.|
 |```randint(min,max,[d0,d1,...,dn])```|According to the dimensions, generate random integer numbers between min and max (not included max).|
+
+## Frequent used functions
+
+To be continued...
+
+Trigonometric functions
+Matrix
