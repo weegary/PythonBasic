@@ -35,19 +35,3 @@ Chapter 12: Classes / Objects <br/>
 Chapter X: Must Learn Module 4: Matplotlib <br/>
 [Chapter X: Module 5: Web Request (Selenium, WebRequest, BeautifulSoup, Scrapy)](ChpX_WebRequest.md) <br/>
 [Chapter X: Module 6: Database (SQL Server)](ChpX_Database.md) <br/>
-Chapter X: Module 7: GIS <br/>
-- Basemap, Shapely, Cartopy
-- PyProj
-- Arcpy
-- GDAL, Fiona, Geopandas
-- ipyleaflet <br/>
-Chapter X: Module 8: Machine Learning <br/>
-Chapter X: Module 9: GUI (TKinter) <br/>
-[Chapter Y: Project 1: Microsoft Excel Manipulation](ChpX_Excel.md) <br/>
-Chapter Y: Project 2: Microsoft Word Manipulation <br/>
-Chapter Y: Project 3: Web Scrawling <br/>
-Chapter Y: Project 4: 2D Game Creation <br/>
-Chapter Y: Project 5: Computer Vision <br/>
-Chapter Y: Project 6: Tableau <br/>
-Chapter Y: Project 7: Chatting Bot (LineBot) <br/>
-
