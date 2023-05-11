@@ -8,7 +8,8 @@ import matplotlib.pyplot as plt
 x = [1,2,3]
 y = [4,5,10]
 
-plt.plot(x, y, linestyle = 'solid', color = 'black', marker = 'o')
+fig, ax = plt.subplots()
+ax.plot(x, y, linestyle = 'solid', color = 'black', marker = 'o')
 ```
 ![image](https://user-images.githubusercontent.com/51909547/177478703-270efb9f-8073-455a-af65-af034c1a3a2a.png)
 
@@ -32,6 +33,6 @@ Chapter 12: Classes / Objects <br/>
 [Chapter X: Must Learn Module 1: Numpy](ChpX_Numpy.md) <br/>
 [Chapter X: Must Learn Module 2: Pandas](ChpX_Pandas.md) <br/>
 [Chapter X: Must Learn Module 3: JSON](ChpX_JSON.md) <br/>
-Chapter X: Must Learn Module 4: Matplotlib <br/>
+[Chapter X: Must Learn Module 4: Matplotlib](ChpX_Matplotlib.md) <br/>
 [Chapter X: Module 5: Web Request (Selenium, WebRequest, BeautifulSoup, Scrapy)](ChpX_WebRequest.md) <br/>
 [Chapter X: Module 6: Database (SQL Server)](ChpX_Database.md) <br/>
