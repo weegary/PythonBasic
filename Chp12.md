@@ -175,5 +175,5 @@ To create an object in Python, you need to first define a class. <br/>
 The class is then used to instantiate (create) objects that belong to that class. <br/>
 Each object is independent and can have its own unique set of values for the attributes defined in the class. <br/>
 
-In summary, an object is a specific instance of a class, while a class is a blueprint or template that defines the properties and behaviors that objects of that class will have. <br?>
+In summary, an object is a specific instance of a class, while a class is a blueprint or template that defines the properties and behaviors that objects of that class will have. <br/>
 By using classes and objects, you can write more flexible, efficient, organized and modular code that can be easily extended, reused and modified. <br/>
