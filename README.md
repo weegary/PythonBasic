@@ -27,7 +27,7 @@ Contents: <br/>
 [Chapter 9: Control Flow - Break and Continue](Chp09.md) <br/>
 [Chapter 10: Try...Except...Finally](Chp10.md) <br/>
 [Chapter 11: Functions](Chp11.md) <br/>
-Chapter 12: Classes / Objects <br/>
+[Chapter 12: Classes / Objects](Chp12.md) <br/>
 [Chapter 13: File Handling](Chp13.md) <br/>
 <br/>
 [Chapter X: Must Learn Module 1: Numpy](ChpX_Numpy.md) <br/>
