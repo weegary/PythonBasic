@@ -16,15 +16,15 @@ ax.plot(x, y, linestyle = 'solid', color = 'black', marker = 'o')
 And we are going to extend this code to a professional fashion througout this whole course.
 
 Contents: <br/>
-[Chapter 1: Introduction](Chp01.md) <br/>
-[Chapter 2: Data Types](Chp02.md) <br/>
-[Chapter 3: DateTime/ Date / Time / TimeDelta](Chp03.md) <br/>
-[Chapter 4: Operators](Chp04.md) <br/>
-[Chapter 5: Math](Chp05.md) <br/>
-[Chapter 6: Control Flow - For Loops](Chp06.md) <br/>
-[Chapter 7: Control Flow - While Loops](Chp07.md) <br/>
-[Chapter 8: Control Flow - If...Else](Chp08.md) <br/>
-[Chapter 9: Control Flow - Break and Continue](Chp09.md) <br/>
+[Chapter 01: Introduction](Chp01.md) <br/>
+[Chapter 02: Data Types](Chp02.md) <br/>
+[Chapter 03: DateTime/ Date / Time / TimeDelta](Chp03.md) <br/>
+[Chapter 04: Operators](Chp04.md) <br/>
+[Chapter 05: Math](Chp05.md) <br/>
+[Chapter 06: Control Flow - For Loops](Chp06.md) <br/>
+[Chapter 07: Control Flow - While Loops](Chp07.md) <br/>
+[Chapter 08: Control Flow - If...Else](Chp08.md) <br/>
+[Chapter 09: Control Flow - Break and Continue](Chp09.md) <br/>
 [Chapter 10: Try...Except...Finally](Chp10.md) <br/>
 [Chapter 11: Functions](Chp11.md) <br/>
 [Chapter 12: Classes / Objects](Chp12.md) <br/>
