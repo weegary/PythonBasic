@@ -59,11 +59,10 @@ y = "Kevin"
 z = "Daniel"
 ```
 
-If you want to split the string by using "escape character", we need to import ```re``` module.
+You can also split the string by using "escape character".
 ```python
-import re
 names = "Gary\tKevin\tDaniel"
-x,y,z = re.split(r'\t+',names)
+x,y,z = names.split('\t')
 
 Output:
 x = "Gary"
@@ -198,4 +197,6 @@ print(person_dictionary['Name'])
 
 output:
 'Gary'
-```    
+```
+
+<< Previous: [Basic Coding Introduction](Chp01.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next: [DateTime / TimeDelta / Date / Time](Chp03.md)>>
