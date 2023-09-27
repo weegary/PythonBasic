@@ -54,4 +54,6 @@ As a programming laguage, python can do several operation.
 |Operator|Description|Example|
 |---|---|---|
 |in|Return True If a Sequence With The Specified Value Is Present In The Object|x in y|
-|not in|Return True If a Sequence With The Specified Value Is Not Present In The Object|x is not y|
+|not in|Return True If a Sequence With The Specified Value Is Not Present In The Object|x not in y|
+
+<< Previous: [DateTime / TimeDelta / Date / Time](Chp03.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next: [Math](Chp05.md)>>
