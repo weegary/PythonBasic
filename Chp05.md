@@ -18,7 +18,7 @@ Python ```math``` module provides some useful mathematical functions. <br/>
 |Function|Description|
 |---|---|
 |```math.exp(x)```|Return e raised to the power x, where e = 2.718281... is the base of natural logarithms. This is usually more accurate than ```math.e ** x``` or ```pow(math.e,x)```|
-|```math.log(x[,base]```|With one argument, return the natural logarithm of x (to base e).<br/>With two arguments, return the logarithm of x to the given base, calculated as ```log(x)/log(base)```|
+|```math.log(x,base)```|With one argument, return the natural logarithm of x (to base e).<br/>With two arguments, return the logarithm of x to the given base, calculated as ```log(x)/log(base)```|
 |```math.log2(x)```|Return the base-2 logarithm of x. This is usually more accurate than ```log(x, 2)```|
 |```math.log10(x)```|Return the base-10 logarithm of x. This is usually more accurate than ```log(x, 10)```|
 |```math.pow(x,y)```|Return x raised to the power y|
@@ -64,3 +64,5 @@ Most of the functions or constants can also be accessed in the [```numpy``` modu
 Use ```math``` if you are doing simple computations with only scalars (and no lists or arrays). <br/>
 Use ```numpy``` if you are doing scientific computations with matrices, arrays, or large datasets. <br/>
 It is common **not to** import ```math``` library when you need functions that are only present in ```numpy``` or ```scipy``` modules.
+
+<< Previous: [Operators](Chp04.md)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Next: [Control Flow - For Loops](Chp06.md)>>
